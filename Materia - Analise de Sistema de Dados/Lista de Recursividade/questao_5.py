@@ -3,7 +3,7 @@
 # -=-=- EXERCICIO 05 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 import sys
 
-sys.setrecursionlimit(2000)
+sys.setrecursionlimit(20000)
 
 def bitcoin(bitcoins_na_conta=0, mes=0, total_investido=0, metas_atingidas=None):
     if metas_atingidas is None:
@@ -12,12 +12,10 @@ def bitcoin(bitcoins_na_conta=0, mes=0, total_investido=0, metas_atingidas=None)
     valor_bitcoin = 664484
     cotacao_bitcoin = [209410, 212335, 306600, 359693, 316517, 355299, 352500, 368540, 333842, 345411, 409131, 580819]
     investimento_reais = 250
-    rendimento = 0.0005
     metas = {100000, 1000000, valor_bitcoin}
-
+      
     cotacao_atual = cotacao_bitcoin[mes % 12]
     investimento_bitcoin = investimento_reais / cotacao_atual
-    bitcoins_na_conta *= (1 + rendimento)  
     bitcoins_na_conta += investimento_bitcoin
     total_investido += investimento_reais
     mes += 1

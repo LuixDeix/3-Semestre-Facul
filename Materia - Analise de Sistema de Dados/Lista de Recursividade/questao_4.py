@@ -5,12 +5,25 @@ import sys
 
 sys.setrecursionlimit(2000)
 
-def poupanca(saldo, meses, saldo_investido, taxa_juros, marco):
-    if saldo >= marco:
-        anos = meses // 12
-        meses_restantes = meses % 12
-        valor_total = saldo_investido * meses
-        juros_acumulados = saldo - valor_total
+cotacao_dolar = [4.93, 4.87, 4.97, 4.99, 5.17, 5.14, 5.36, 5.45, 5.46, 5.57, 5.63, 5.78]
+rendimento = 0.05
+investimento_reais = 500
+meta100k = 100000
+meta1m = 1000000
+
+def poupanca(dolares_na_conta=0, mes=0, marco=meta100k):
+    cotacao_atual = cotacao_dolar[mes % 12]
+    investimento_dolares = investimento_reais / cotacao_atual
+    dolares_na_conta *= (1 + rendimento)
+    dolares_na_conta += investimento_dolares
+    reais_na_conta = dolares_na_conta * cotacao_atual
+    mes += 1
+    
+    if reais_na_conta >= marco:
+        anos = mes // 12
+        meses_restantes = mes % 12
+        valor_total = investimento_reais * mes
+        juros_acumulados = reais_na_conta - valor_total
 
         print(".__________________________________________________.")
         print(f"""
@@ -19,25 +32,12 @@ def poupanca(saldo, meses, saldo_investido, taxa_juros, marco):
 ◦= Tempo gasto: {anos} anos e {meses_restantes} meses
 """)
         print(".==================================================.")
-        return saldo
-    else:
-        novo_saldo = saldo + saldo_investido
-        juros = saldo * 0.0005
-        novo_saldo = novo_saldo + juros
-        return poupanca(novo_saldo, meses + 1, saldo_investido, taxa_juros, marco)
+        return reais_na_conta
+    
+    return poupanca(dolares_na_conta, mes, marco)
 
-saldo_investido = 500
-saldo_rendido = 0.0005
-
-saldo = 0
-meses = 0
-
-atingiu_100k_de_Money = 100000
-atingiu_1M_de_Money = 1000000
-
-print("")
-print("Resultado de R$100k:")
-poupanca(saldo, meses, saldo_investido, saldo_rendido, atingiu_100k_de_Money)
+print("\nResultado de R$100k:")
+poupanca(marco=meta100k)
 
 print("\nResultado de R$1M:")
-poupanca(saldo, meses, saldo_investido, saldo_rendido, atingiu_1M_de_Money)
+poupanca(marco=meta1m)
