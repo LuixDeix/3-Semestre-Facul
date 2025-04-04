@@ -1,0 +1,14 @@
+C:\Users\lugas\OneDrive\Área de Trabalho\Faculdade\3º Semestre\Materia - Programação à Objetos\Csharp\EscolaApp\EscolaApp\bin\Debug\net9.0\EscolaApp.exe
+C:\Users\lugas\OneDrive\Área de Trabalho\Faculdade\3º Semestre\Materia - Programação à Objetos\Csharp\EscolaApp\EscolaApp\bin\Debug\net9.0\EscolaApp.deps.json
+C:\Users\lugas\OneDrive\Área de Trabalho\Faculdade\3º Semestre\Materia - Programação à Objetos\Csharp\EscolaApp\EscolaApp\bin\Debug\net9.0\EscolaApp.runtimeconfig.json
+C:\Users\lugas\OneDrive\Área de Trabalho\Faculdade\3º Semestre\Materia - Programação à Objetos\Csharp\EscolaApp\EscolaApp\bin\Debug\net9.0\EscolaApp.dll
+C:\Users\lugas\OneDrive\Área de Trabalho\Faculdade\3º Semestre\Materia - Programação à Objetos\Csharp\EscolaApp\EscolaApp\bin\Debug\net9.0\EscolaApp.pdb
+C:\Users\lugas\OneDrive\Área de Trabalho\Faculdade\3º Semestre\Materia - Programação à Objetos\Csharp\EscolaApp\EscolaApp\obj\Debug\net9.0\EscolaApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lugas\OneDrive\Área de Trabalho\Faculdade\3º Semestre\Materia - Programação à Objetos\Csharp\EscolaApp\EscolaApp\obj\Debug\net9.0\EscolaApp.AssemblyInfoInputs.cache
+C:\Users\lugas\OneDrive\Área de Trabalho\Faculdade\3º Semestre\Materia - Programação à Objetos\Csharp\EscolaApp\EscolaApp\obj\Debug\net9.0\EscolaApp.AssemblyInfo.cs
+C:\Users\lugas\OneDrive\Área de Trabalho\Faculdade\3º Semestre\Materia - Programação à Objetos\Csharp\EscolaApp\EscolaApp\obj\Debug\net9.0\EscolaApp.csproj.CoreCompileInputs.cache
+C:\Users\lugas\OneDrive\Área de Trabalho\Faculdade\3º Semestre\Materia - Programação à Objetos\Csharp\EscolaApp\EscolaApp\obj\Debug\net9.0\EscolaApp.dll
+C:\Users\lugas\OneDrive\Área de Trabalho\Faculdade\3º Semestre\Materia - Programação à Objetos\Csharp\EscolaApp\EscolaApp\obj\Debug\net9.0\refint\EscolaApp.dll
+C:\Users\lugas\OneDrive\Área de Trabalho\Faculdade\3º Semestre\Materia - Programação à Objetos\Csharp\EscolaApp\EscolaApp\obj\Debug\net9.0\EscolaApp.pdb
+C:\Users\lugas\OneDrive\Área de Trabalho\Faculdade\3º Semestre\Materia - Programação à Objetos\Csharp\EscolaApp\EscolaApp\obj\Debug\net9.0\EscolaApp.genruntimeconfig.cache
+C:\Users\lugas\OneDrive\Área de Trabalho\Faculdade\3º Semestre\Materia - Programação à Objetos\Csharp\EscolaApp\EscolaApp\obj\Debug\net9.0\ref\EscolaApp.dll
