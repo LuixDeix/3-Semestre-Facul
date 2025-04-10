@@ -1,0 +1,14 @@
+C:\Users\lugas\OneDrive\Área de Trabalho\Faculdade\3º Semestre\Materia - Programação à Objetos\Listas\Lista_01_Fundamentos\Fundamentos\obj\Debug\net9.0\Fundamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lugas\OneDrive\Área de Trabalho\Faculdade\3º Semestre\Materia - Programação à Objetos\Listas\Lista_01_Fundamentos\Fundamentos\obj\Debug\net9.0\Fundamentos.AssemblyInfoInputs.cache
+C:\Users\lugas\OneDrive\Área de Trabalho\Faculdade\3º Semestre\Materia - Programação à Objetos\Listas\Lista_01_Fundamentos\Fundamentos\obj\Debug\net9.0\Fundamentos.AssemblyInfo.cs
+C:\Users\lugas\OneDrive\Área de Trabalho\Faculdade\3º Semestre\Materia - Programação à Objetos\Listas\Lista_01_Fundamentos\Fundamentos\obj\Debug\net9.0\Fundamentos.csproj.CoreCompileInputs.cache
+C:\Users\lugas\OneDrive\Área de Trabalho\Faculdade\3º Semestre\Materia - Programação à Objetos\Listas\Lista_01_Fundamentos\Fundamentos\bin\Debug\net9.0\Fundamentos.exe
+C:\Users\lugas\OneDrive\Área de Trabalho\Faculdade\3º Semestre\Materia - Programação à Objetos\Listas\Lista_01_Fundamentos\Fundamentos\bin\Debug\net9.0\Fundamentos.deps.json
+C:\Users\lugas\OneDrive\Área de Trabalho\Faculdade\3º Semestre\Materia - Programação à Objetos\Listas\Lista_01_Fundamentos\Fundamentos\bin\Debug\net9.0\Fundamentos.runtimeconfig.json
+C:\Users\lugas\OneDrive\Área de Trabalho\Faculdade\3º Semestre\Materia - Programação à Objetos\Listas\Lista_01_Fundamentos\Fundamentos\bin\Debug\net9.0\Fundamentos.dll
+C:\Users\lugas\OneDrive\Área de Trabalho\Faculdade\3º Semestre\Materia - Programação à Objetos\Listas\Lista_01_Fundamentos\Fundamentos\bin\Debug\net9.0\Fundamentos.pdb
+C:\Users\lugas\OneDrive\Área de Trabalho\Faculdade\3º Semestre\Materia - Programação à Objetos\Listas\Lista_01_Fundamentos\Fundamentos\obj\Debug\net9.0\Fundamentos.dll
+C:\Users\lugas\OneDrive\Área de Trabalho\Faculdade\3º Semestre\Materia - Programação à Objetos\Listas\Lista_01_Fundamentos\Fundamentos\obj\Debug\net9.0\refint\Fundamentos.dll
+C:\Users\lugas\OneDrive\Área de Trabalho\Faculdade\3º Semestre\Materia - Programação à Objetos\Listas\Lista_01_Fundamentos\Fundamentos\obj\Debug\net9.0\Fundamentos.pdb
+C:\Users\lugas\OneDrive\Área de Trabalho\Faculdade\3º Semestre\Materia - Programação à Objetos\Listas\Lista_01_Fundamentos\Fundamentos\obj\Debug\net9.0\Fundamentos.genruntimeconfig.cache
+C:\Users\lugas\OneDrive\Área de Trabalho\Faculdade\3º Semestre\Materia - Programação à Objetos\Listas\Lista_01_Fundamentos\Fundamentos\obj\Debug\net9.0\ref\Fundamentos.dll
