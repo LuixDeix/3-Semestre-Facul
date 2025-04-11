@@ -1,0 +1,14 @@
+C:\Users\lugas\OneDrive\Área de Trabalho\Faculdade\3º Semestre\Materia - Programação à Objetos\Listas\Lista_03_Heranca_Polimorfismo\Herancas\bin\Debug\net9.0\Herancas.exe
+C:\Users\lugas\OneDrive\Área de Trabalho\Faculdade\3º Semestre\Materia - Programação à Objetos\Listas\Lista_03_Heranca_Polimorfismo\Herancas\bin\Debug\net9.0\Herancas.deps.json
+C:\Users\lugas\OneDrive\Área de Trabalho\Faculdade\3º Semestre\Materia - Programação à Objetos\Listas\Lista_03_Heranca_Polimorfismo\Herancas\bin\Debug\net9.0\Herancas.runtimeconfig.json
+C:\Users\lugas\OneDrive\Área de Trabalho\Faculdade\3º Semestre\Materia - Programação à Objetos\Listas\Lista_03_Heranca_Polimorfismo\Herancas\bin\Debug\net9.0\Herancas.dll
+C:\Users\lugas\OneDrive\Área de Trabalho\Faculdade\3º Semestre\Materia - Programação à Objetos\Listas\Lista_03_Heranca_Polimorfismo\Herancas\bin\Debug\net9.0\Herancas.pdb
+C:\Users\lugas\OneDrive\Área de Trabalho\Faculdade\3º Semestre\Materia - Programação à Objetos\Listas\Lista_03_Heranca_Polimorfismo\Herancas\obj\Debug\net9.0\Herancas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lugas\OneDrive\Área de Trabalho\Faculdade\3º Semestre\Materia - Programação à Objetos\Listas\Lista_03_Heranca_Polimorfismo\Herancas\obj\Debug\net9.0\Herancas.AssemblyInfoInputs.cache
+C:\Users\lugas\OneDrive\Área de Trabalho\Faculdade\3º Semestre\Materia - Programação à Objetos\Listas\Lista_03_Heranca_Polimorfismo\Herancas\obj\Debug\net9.0\Herancas.AssemblyInfo.cs
+C:\Users\lugas\OneDrive\Área de Trabalho\Faculdade\3º Semestre\Materia - Programação à Objetos\Listas\Lista_03_Heranca_Polimorfismo\Herancas\obj\Debug\net9.0\Herancas.csproj.CoreCompileInputs.cache
+C:\Users\lugas\OneDrive\Área de Trabalho\Faculdade\3º Semestre\Materia - Programação à Objetos\Listas\Lista_03_Heranca_Polimorfismo\Herancas\obj\Debug\net9.0\Herancas.dll
+C:\Users\lugas\OneDrive\Área de Trabalho\Faculdade\3º Semestre\Materia - Programação à Objetos\Listas\Lista_03_Heranca_Polimorfismo\Herancas\obj\Debug\net9.0\refint\Herancas.dll
+C:\Users\lugas\OneDrive\Área de Trabalho\Faculdade\3º Semestre\Materia - Programação à Objetos\Listas\Lista_03_Heranca_Polimorfismo\Herancas\obj\Debug\net9.0\Herancas.pdb
+C:\Users\lugas\OneDrive\Área de Trabalho\Faculdade\3º Semestre\Materia - Programação à Objetos\Listas\Lista_03_Heranca_Polimorfismo\Herancas\obj\Debug\net9.0\Herancas.genruntimeconfig.cache
+C:\Users\lugas\OneDrive\Área de Trabalho\Faculdade\3º Semestre\Materia - Programação à Objetos\Listas\Lista_03_Heranca_Polimorfismo\Herancas\obj\Debug\net9.0\ref\Herancas.dll
